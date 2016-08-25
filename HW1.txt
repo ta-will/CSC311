@@ -4,3 +4,16 @@ amanC
 CSC311 
 ata Communication
 37
+
+23
+[7, 11, 9, 13]
+None
+None
+None
+None
+12
+
+4
+4
+(4, 8, 12, 16)
+4
